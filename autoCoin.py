@@ -2,17 +2,17 @@
 import requests, re, time
 
 # 这里填入up主的uid
-uid = '652137183'
+uid = '106017013'
 
 # 这里填写你自身的 cookies
 cookies = {
-    'DedeUserID': '94560450',
-    'bili_jct': '7ef95826f238f246a4cfe8c1dfcced3e',
-    'SESSDATA': '4e97f281%2C1706188888%2C554a5%2A72Q2jOtfntFy3OAgB6bvxeLMmVx4aefB3PLYQaAZzYIU0fuYwnQ_Ynxza40IKfXHaz5ohpswAAMgA'
+    'DedeUserID': '19386196',
+    'bili_jct': '56bb5c7edb8a68f4a9dc304049da57b9',
+    'SESSDATA': '584d5eab%2C1738256412%2Ce6dbc%2A82CjAJsHce-2owazSOTPIJIEcKahSd70P-L7RRBJOT8e2jenv16hNE0wibiIaxPGwMUawSVjlPZGZoTnBva0V6QnVJNDRjRTMxX183UkZwbnhXdnd5NUQtbzFISU1qVGk5ZHJ5ZzI5OExUZUYyS2lMRDI3ZWw5MlJNd1lDclgxX05laUgyMk1oSk93IIEC'
 }
 
 # 这里填写你当前需要投币的视频的总页数 + 1
-page_num = 4
+page_num = 3
 
 # 以下代码如果没有必要, 请勿修改 ~
 
